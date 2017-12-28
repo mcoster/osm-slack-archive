@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>#lit</title>
     <link rel=stylesheet type=text/css
-          href="static/viewer.css">
+          href="../static/viewer.css">
 </head>
 <body>
 <div id="fixed">
@@ -12,25 +12,25 @@
     <ul id="channel-list">
         
             <li class="channel ">
-                <a href="channel/chitchat_social-media">
+                <a href="chitchat_social-media">
                     #chitchat_social-media
                 </a>
             </li>
         
             <li class="channel active">
-                <a href="channel/lit">
+                <a href="lit">
                     #lit
                 </a>
             </li>
         
             <li class="channel ">
-                <a href="channel/operations">
+                <a href="operations">
                     #operations
                 </a>
             </li>
         
             <li class="channel ">
-                <a href="channel/suggestions_sandbox">
+                <a href="suggestions_sandbox">
                     #suggestions_sandbox
                 </a>
             </li>
